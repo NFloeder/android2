@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="one_player">One Player</string>
+    <string name="two_player_local">Two Player Local</string>
+    <string name="two_player_online">Two Player Online</string>
+    <string name="action_settings">Settings</string>
+    <string name="player_turn">Player 1 Turn</string>
+    <string name="title_activity_single_player_game">SinglePlayerGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_two_player_game_local">TwoPlayerGameLocal</string>
+    <string name="title_activity_two_player_game_online">TwoPlayerGameOnline</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="spot1"></string>
+    <string name="spot2"></string>
+    <string name="spot3"></string>
+    <string name="spot4"></string>
+    <string name="spot5"></string>
+    <string name="spot6"></string>
+    <string name="spot7"></string>
+    <string name="spot8"></string>
+    <string name="spot9"></string>
+
+</resources>
